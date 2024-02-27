@@ -1,0 +1,1 @@
+import('./index.js').then(() => console.log('index.js loaded')).catch(e => console.error('Error loading index.js', e.message), e.stack);
