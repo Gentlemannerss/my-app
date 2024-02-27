@@ -1,7 +1,7 @@
 import React from "react";
-import Benefits from "../../components/Benefits/Benefits";
+import Benefits from "../../components/Benefits/Benefits.js";
 import "./Home.css";
-import Services from "../../components/Services/Services";
+import Services from "../../components/Services/Services.js";
 
 function Home() {
   return (
