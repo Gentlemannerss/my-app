@@ -1,0 +1,19 @@
+.companyName {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--pennblue);
+    text-align: center;
+    margin-bottom: 1rem;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.slogan {
+    padding: 50px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--lightblue);
+    text-align: center;
+    transform: rotate(+2deg);
+    margin-bottom: 1rem;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}

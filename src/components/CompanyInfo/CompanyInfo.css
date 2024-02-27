@@ -1,0 +1,36 @@
+.leftSection {
+    flex: 1;
+    text-align: center;
+    margin-left: 5rem;
+}
+
+.rightSection {
+    flex: 1;
+    text-align: center;
+}
+
+.companyImage {
+    width: 300px;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.companyContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.subtitle {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 1rem;
+}
+
+.title {
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 1rem;
+}

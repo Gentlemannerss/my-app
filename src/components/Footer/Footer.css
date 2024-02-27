@@ -1,0 +1,11 @@
+.footer {
+    background-color: #034078;
+    color: white;
+    padding: 5px;
+    font-size: 0.8rem;
+    position: fixed;
+    bottom: 0;
+    /* this could make the footer 100% width of the screen */
+    /*width: 100%;*/
+    border-top-right-radius: 15px;
+}
